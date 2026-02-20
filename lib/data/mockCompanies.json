@@ -1,0 +1,442 @@
+[
+  {
+    "id": "comp_1",
+    "name": "Anthropic",
+    "industry": "AI/ML",
+    "stage": "Series C+",
+    "location": "San Francisco, CA",
+    "website": "https://anthropic.com"
+  },
+  {
+    "id": "comp_2",
+    "name": "Stripe",
+    "industry": "Fintech",
+    "stage": "Series C+",
+    "location": "San Francisco, CA",
+    "website": "https://stripe.com"
+  },
+  {
+    "id": "comp_3",
+    "name": "Notion",
+    "industry": "SaaS",
+    "stage": "Series C+",
+    "location": "San Francisco, CA",
+    "website": "https://notion.so"
+  },
+  {
+    "id": "comp_4",
+    "name": "Figma",
+    "industry": "SaaS",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://figma.com"
+  },
+  {
+    "id": "comp_5",
+    "name": "Scale AI",
+    "industry": "AI/ML",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://scale.com"
+  },
+  {
+    "id": "comp_6",
+    "name": "Plaid",
+    "industry": "Fintech",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://plaid.com"
+  },
+  {
+    "id": "comp_7",
+    "name": "Zapier",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "location": "San Francisco, CA",
+    "website": "https://zapier.com"
+  },
+  {
+    "id": "comp_8",
+    "name": "Airtable",
+    "industry": "SaaS",
+    "stage": "Series F",
+    "location": "San Francisco, CA",
+    "website": "https://airtable.com"
+  },
+  {
+    "id": "comp_9",
+    "name": "Brex",
+    "industry": "Fintech",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://brex.com"
+  },
+  {
+    "id": "comp_10",
+    "name": "Cohere",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "location": "Toronto, Canada",
+    "website": "https://cohere.com"
+  },
+  {
+    "id": "comp_11",
+    "name": "Gusto",
+    "industry": "SaaS",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://gusto.com"
+  },
+  {
+    "id": "comp_12",
+    "name": "Checkr",
+    "industry": "Enterprise",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://checkr.com"
+  },
+  {
+    "id": "comp_13",
+    "name": "Rippling",
+    "industry": "SaaS",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://rippling.com"
+  },
+  {
+    "id": "comp_14",
+    "name": "Deel",
+    "industry": "SaaS",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://deel.com"
+  },
+  {
+    "id": "comp_15",
+    "name": "Mercury",
+    "industry": "Fintech",
+    "stage": "Series B",
+    "location": "San Francisco, CA",
+    "website": "https://mercury.com"
+  },
+  {
+    "id": "comp_16",
+    "name": "Retool",
+    "industry": "SaaS",
+    "stage": "Series C",
+    "location": "San Francisco, CA",
+    "website": "https://retool.com"
+  },
+  {
+    "id": "comp_17",
+    "name": "Linear",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "location": "San Francisco, CA",
+    "website": "https://linear.app"
+  },
+  {
+    "id": "comp_18",
+    "name": "Vercel",
+    "industry": "SaaS",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://vercel.com"
+  },
+  {
+    "id": "comp_19",
+    "name": "Replit",
+    "industry": "SaaS",
+    "stage": "Series B",
+    "location": "San Francisco, CA",
+    "website": "https://replit.com"
+  },
+  {
+    "id": "comp_20",
+    "name": "Hugging Face",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "location": "New York, NY",
+    "website": "https://huggingface.co"
+  },
+  {
+    "id": "comp_21",
+    "name": "Midjourney",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "location": "San Francisco, CA",
+    "website": "https://midjourney.com"
+  },
+  {
+    "id": "comp_22",
+    "name": "Character.AI",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "location": "Palo Alto, CA",
+    "website": "https://character.ai"
+  },
+  {
+    "id": "comp_23",
+    "name": "Runway",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "location": "New York, NY",
+    "website": "https://runwayml.com"
+  },
+  {
+    "id": "comp_24",
+    "name": "Moveworks",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "location": "Mountain View, CA",
+    "website": "https://moveworks.com"
+  },
+  {
+    "id": "comp_25",
+    "name": "Jasper",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "location": "Austin, TX",
+    "website": "https://jasper.ai"
+  },
+  {
+    "id": "comp_26",
+    "name": "Copy.ai",
+    "industry": "AI/ML",
+    "stage": "Series A",
+    "location": "Memphis, TN",
+    "website": "https://copy.ai"
+  },
+  {
+    "id": "comp_27",
+    "name": "Writer",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "location": "San Francisco, CA",
+    "website": "https://writer.com"
+  },
+  {
+    "id": "comp_28",
+    "name": "Grammarly",
+    "industry": "AI/ML",
+    "stage": "Series C+",
+    "location": "San Francisco, CA",
+    "website": "https://grammarly.com"
+  },
+  {
+    "id": "comp_29",
+    "name": "Synthesia",
+    "industry": "AI/ML",
+    "stage": "Series B",
+    "location": "London, UK",
+    "website": "https://synthesia.io"
+  },
+  {
+    "id": "comp_30",
+    "name": "Descript",
+    "industry": "AI/ML",
+    "stage": "Series C",
+    "location": "San Francisco, CA",
+    "website": "https://descript.com"
+  },
+  {
+    "id": "comp_31",
+    "name": "Lemonade",
+    "industry": "Fintech",
+    "stage": "Public",
+    "location": "New York, NY",
+    "website": "https://lemonade.com"
+  },
+  {
+    "id": "comp_32",
+    "name": "Affirm",
+    "industry": "Fintech",
+    "stage": "Public",
+    "location": "San Francisco, CA",
+    "website": "https://affirm.com"
+  },
+  {
+    "id": "comp_33",
+    "name": "Klarna",
+    "industry": "Fintech",
+    "stage": "Private",
+    "location": "Stockholm, Sweden",
+    "website": "https://klarna.com"
+  },
+  {
+    "id": "comp_34",
+    "name": "Chime",
+    "industry": "Fintech",
+    "stage": "Series G",
+    "location": "San Francisco, CA",
+    "website": "https://chime.com"
+  },
+  {
+    "id": "comp_35",
+    "name": "Robinhood",
+    "industry": "Fintech",
+    "stage": "Public",
+    "location": "Menlo Park, CA",
+    "website": "https://robinhood.com"
+  },
+  {
+    "id": "comp_36",
+    "name": "Coinbase",
+    "industry": "Fintech",
+    "stage": "Public",
+    "location": "San Francisco, CA",
+    "website": "https://coinbase.com"
+  },
+  {
+    "id": "comp_37",
+    "name": "Chainalysis",
+    "industry": "Fintech",
+    "stage": "Series F",
+    "location": "New York, NY",
+    "website": "https://chainalysis.com"
+  },
+  {
+    "id": "comp_38",
+    "name": "OpenSea",
+    "industry": "Fintech",
+    "stage": "Series C",
+    "location": "New York, NY",
+    "website": "https://opensea.io"
+  },
+  {
+    "id": "comp_39",
+    "name": "Dapper Labs",
+    "industry": "Fintech",
+    "stage": "Series D",
+    "location": "Vancouver, Canada",
+    "website": "https://dapperlabs.com"
+  },
+  {
+    "id": "comp_40",
+    "name": "Tempus",
+    "industry": "Healthcare",
+    "stage": "Series G",
+    "location": "Chicago, IL",
+    "website": "https://tempus.com"
+  },
+  {
+    "id": "comp_41",
+    "name": "Ro",
+    "industry": "Healthcare",
+    "stage": "Series D",
+    "location": "New York, NY",
+    "website": "https://ro.co"
+  },
+  {
+    "id": "comp_42",
+    "name": "Hims & Hers",
+    "industry": "Healthcare",
+    "stage": "Public",
+    "location": "San Francisco, CA",
+    "website": "https://forhims.com"
+  },
+  {
+    "id": "comp_43",
+    "name": "Calm",
+    "industry": "Healthcare",
+    "stage": "Series C",
+    "location": "San Francisco, CA",
+    "website": "https://calm.com"
+  },
+  {
+    "id": "comp_44",
+    "name": "Headspace",
+    "industry": "Healthcare",
+    "stage": "Series C",
+    "location": "Santa Monica, CA",
+    "website": "https://headspace.com"
+  },
+  {
+    "id": "comp_45",
+    "name": "Modern Health",
+    "industry": "Healthcare",
+    "stage": "Series D",
+    "location": "San Francisco, CA",
+    "website": "https://modernhealth.com"
+  },
+  {
+    "id": "comp_46",
+    "name": "Ginger",
+    "industry": "Healthcare",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://ginger.io"
+  },
+  {
+    "id": "comp_47",
+    "name": "Whoop",
+    "industry": "Healthcare",
+    "stage": "Series F",
+    "location": "Boston, MA",
+    "website": "https://whoop.com"
+  },
+  {
+    "id": "comp_48",
+    "name": "Oura",
+    "industry": "Healthcare",
+    "stage": "Series C",
+    "location": "Oulu, Finland",
+    "website": "https://ouraring.com"
+  },
+  {
+    "id": "comp_49",
+    "name": "Levels",
+    "industry": "Healthcare",
+    "stage": "Series A",
+    "location": "New York, NY",
+    "website": "https://levels.com"
+  },
+  {
+    "id": "comp_50",
+    "name": "Virta Health",
+    "industry": "Healthcare",
+    "stage": "Series E",
+    "location": "San Francisco, CA",
+    "website": "https://virtahealth.com"
+  },
+  {
+    "id": "comp_51",
+    "name": "Beyond Meat",
+    "industry": "Consumer",
+    "stage": "Public",
+    "location": "El Segundo, CA",
+    "website": "https://beyondmeat.com"
+  },
+  {
+    "id": "comp_52",
+    "name": "Impossible Foods",
+    "industry": "Consumer",
+    "stage": "Series G",
+    "location": "Redwood City, CA",
+    "website": "https://impossiblefoods.com"
+  },
+  {
+    "id": "comp_53",
+    "name": "Allbirds",
+    "industry": "Consumer",
+    "stage": "Public",
+    "location": "San Francisco, CA",
+    "website": "https://allbirds.com"
+  },
+  {
+    "id": "comp_54",
+    "name": "Warby Parker",
+    "industry": "Consumer",
+    "stage": "Public",
+    "location": "New York, NY",
+    "website": "https://warbyparker.com"
+  },
+  {
+    "id": "comp_55",
+    "name": "Casper",
+    "industry": "Consumer",
+    "stage": "Public",
+    "location": "New York, NY",
+    "website": "https://casper.com"
+  }
+]
