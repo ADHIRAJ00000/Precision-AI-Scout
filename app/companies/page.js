@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, Suspense } from 'react';
 import { useSearchParams, useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { Search, Filter, ChevronDown, ChevronUp, ChevronLeft, ChevronRight, Bookmark, ArrowUpDown } from 'lucide-react';
@@ -20,6 +20,14 @@ const STAGES = ['All', 'Pre-seed', 'Seed', 'Series A', 'Series B', 'Series C+', 
 const ITEMS_PER_PAGE = 20;
 
 export default function CompaniesPage() {
+    return (
+    <Suspense fallback={<div className="p-6">Loading...</div>}>
+      <CompaniesPageContent />
+    </Suspense>
+  );
+}
+
+function CompaniesPageContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
   const { saveSearch } = useSavedSearches();
